@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QUIZ</string>
+    <string name="action_settings"></string>
+    <string name="q1">THIS APP IS DEVOLOPED BY HARIHRAN</string>
+    <string name="q2">HE LIKES PIZZA AND BURGER</string>
+    <string name="q3">HE STUDIES IN VEL TECH MULTI TECH</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
